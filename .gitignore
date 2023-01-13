@@ -1,0 +1,6 @@
+.vscode
+bin
+.config
+obj
+app.manifest
+wtftd.csproj
