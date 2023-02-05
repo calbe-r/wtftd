@@ -25,7 +25,11 @@ namespace wtftd.States
             );
         }
 
-        public override void UpdateGameState(GameTime gameTime) { }
+        public override void UpdateGameState(GameTime gameTime) 
+        { 
+            
+        }
+
 
         protected override void SetInputManager()
         {
